@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+טיפולי הילינג לכאבים כרוניים, עייפות ותשישות — בגוף ובנשמה. גישה הוליסטית ייחודית המשלבת אנרגיה, רוחניות וטיפול מרחוק. התחל את מסע ההחלמה שלך עוד היום.
+
+### טיפולים
+https://example.com/treatments
+גלה את סדרת טיפולי הילינג מים חיים — פתרונות מותאמים אישית לכאבים כרוניים, עייפות ותשישות. טיפולים פרונטליים ומרחוק זמינים עבורך. בחר את הדרך שלך לבריאות.
+
+### אודות
+https://example.com/about
+היכנס לעולם הריפוי של הילינג מים חיים — מטפל הוליסטי עם חזון רוחני עמוק, המאמין בכוח המים החיים לחדש ולרפא. למד על הגישה הייחודית ועל מסע הריפוי שמחכה לך.
+
+### צור קשר
+https://example.com/contact
+רוצה לקבוע טיפול הילינג מרחוק אונליין או פגישה אישית? צור קשר עכשיו ונתאים עבורך את מסלול הריפוי המושלם לכאבים כרוניים ולחידוש האנרגיה. אנחנו כאן בשבילך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
